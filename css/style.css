@@ -127,3 +127,6 @@ input{
   height: 100%;
   z-index: inherit;
 }
+.end-game-container button{
+  margin: 5px;
+}
